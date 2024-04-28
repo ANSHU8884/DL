@@ -1,3 +1,6 @@
+
+
+
 Min, Max, Sum & Average operations using Parallel Reduction
 
 #include<stdio.h>
